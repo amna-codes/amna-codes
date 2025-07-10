@@ -22,7 +22,7 @@ Task management interface with core CRUD operations. Designed with simplicity an
 
 ## Research & Presentations
 
-- Presented research on **AI in Smart Transportation Systems** at the *1st International Conference on Emerging Trends in Business, Economics, and IT (2025)*.  
+- Presented research on **AI in Smart Transportation Systems** at the *1st International Conference on Emerging Trends in Business, Economics, and IT (ICEBE & IT - 2025)*.  
 - Capstone research: Deep learning-based medical image classification using CNNs and PyTorch.
 
 ---
