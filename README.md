@@ -1,6 +1,6 @@
 # Amna Ghaffar
 
-Final-year BS (Hons.) Information Technology student at GSCWU, Bahawalpur with a CGPA of 3.99. My academic and project work is focused on artificial intelligence, machine learning, and deep learning applications, particularly in healthcare and real-world problem domains.
+An IT graduate with a CGPA of 3.99. My academic and project work is focused on artificial intelligence, machine learning, and deep learning applications, particularly in healthcare and real-world problem domains.
 
 ## Focus Areas
 - Deep Learning (CNNs, PyTorch)
